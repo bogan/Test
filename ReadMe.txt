@@ -7,3 +7,4 @@ This is my third branch!
 First commit!
 Second commit!
 Third commit!
+Fourth commit!
